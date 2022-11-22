@@ -1,5 +1,7 @@
 import { createHomePage } from "./homePage";
-import {reset} from "./reset.js";
+import { createNav } from "./nav";
+
 createHomePage()
-reset()
+createNav()
+
 
