@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){let e=document.getElementById("content"),t=document.createElement("div");t.className="title",t.innerHTML="THe best restaurant",e.appendChild(t);let n=document.createElement("img");n.src="food.jpg",e.appendChild(n);let d=document.createElement("div");d.className="comment",d.innerHTML="This food is the best food in the world",e.appendChild(d)}()})();
